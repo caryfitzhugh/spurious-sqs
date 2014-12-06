@@ -1,3 +1,0 @@
-[submodule "fake_sqs"]
-	path = fake_sqs
-	url = git@github.com:caryfitzhugh/spurious-sqs.git
